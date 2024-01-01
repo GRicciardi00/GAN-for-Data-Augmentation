@@ -17,10 +17,11 @@ Data augmentation is crucial for improving machine learning models by diversifyi
 	   -  Explore the synergies between GANs and data augmentation techniques to enrich and balance the training dataset.
   2.   **Image Classification:**  
 		  - Utilize a Convolutional Neural Network (CNN) for image classification.- Evaluate the impact of GAN-generated images on the CNN's classification performance. 
- 
+ ![Representation of application architecture](https://github.com/GRicciardi00/GAN-for-Data-Augmentation/blob/main/project_architecture.png)
 ## Dataset
 
 The provided dataset comprises 164 color images, each sized 256x256 pixels, depicting various angles of 3D models. The images represent 3D models of cows and horses, with diverse angles to capture different perspectives.Some pre-processing operations have been carried out (resize, data augmentation, etc.).
+![Images generated with trained WGAN model](https://github.com/GRicciardi00/GAN-for-Data-Augmentation/blob/main/Generated_images.png)
 
 ## Project Structure
  The project structure is designed for clarity and ease of use:
