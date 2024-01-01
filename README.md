@@ -21,6 +21,7 @@ Data augmentation is crucial for improving machine learning models by diversifyi
 ## Dataset
 
 The provided dataset comprises 164 color images, each sized 256x256 pixels, depicting various angles of 3D models. The images represent 3D models of cows and horses, with diverse angles to capture different perspectives.Some pre-processing operations have been carried out (resize, data augmentation, etc.). <br/>
+The following figure shows some examples of generated images with WGAN model. <br/>
 ![Images generated with trained WGAN model](https://github.com/GRicciardi00/GAN-for-Data-Augmentation/blob/main/Generated_images.png)
 
 ## Project Structure
